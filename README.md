@@ -34,3 +34,30 @@ Exercises
 - 13. [Plus Equals](./Lesson1_Syntax/13-plus_equals.py)
 
 - 14. [Multi-line Strings](./Lesson1_Syntax/14-multi_line_strings.py)
+
+
+## LESSON Introduction to Functions
+
+Learn how to create functions to reduce repeated code and increase usability!
+
+Exercises
+
+- 1. [Introduction to Functions](./Lesson2_Functions/1-introduction_func.py)
+
+- 2. [What is a Function?](./Lesson2_Functions/2-function.py)
+
+- 3. [Write a Function](./Lesson2_Functions/3-write_function.py)
+
+- 4. [Whitespace](./Lesson2_Functions/4-whitespace.py)- 
+
+- 5. [Parameters](./Lesson2_Functions/5-parameters.py)
+
+- 6. [Multiple Parameters](./Lesson2_Functions/6-multiple_parameters.py)
+
+- 7. [Keyword Arguments](./Lesson2_Functions/7-keyword_arguments.py)
+
+- 8. [Returns](./Lesson2_Functions/8-return.py)
+
+- 9. [Multiple Return Values](./Lesson2_Functions/9-multiple_return_values.py)
+
+- 10. [Scope](./Lesson2_Functions/90-scope.py)

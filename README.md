@@ -36,7 +36,7 @@ Exercises
 - 14. [Multi-line Strings](./Lesson1_Syntax/14-multi_line_strings.py)
 
 
-## LESSON Introduction to Functions
+## LESSON 2 Introduction to Functions
 
 Learn how to create functions to reduce repeated code and increase usability!
 
@@ -61,3 +61,34 @@ Exercises
 - 9. [Multiple Return Values](./Lesson2_Functions/9-multiple_return_values.py)
 
 - 10. [Scope](./Lesson2_Functions/90-scope.py)
+
+
+LESSON 3 Control Flow
+
+Learn how to build control flow into your Python code by including if, else, and elif statements as well as try and except statements. Expect to learn all you need to know about boolean variables and logical operators.
+
+Exercises
+
+1. Control Flow: An Introduction
+
+2. [Boolean Expressions](./Lesson3_ControlFlow/1-booleanExpressions.py)
+
+3. [Relational Operators: Equals and Not Equals](./Lesson3_ControlFlow/2-RelationalOperators.py)
+
+4. [Boolean Variables](./Lesson3_ControlFlow/3-booleanVariables.py)
+
+5. [If Statements](./Lesson3_ControlFlow/4-IfStatements.py)
+
+6. [Relational Operators II](./Lesson3_ControlFlow/5-RelationalOperators.py)
+
+7. [Boolean Operators: and](./Lesson3_ControlFlow/6-OperatorsAnd.py)
+
+8. [Boolean Operators: or](./Lesson3_ControlFlow/7-OperatorsOr.py)
+
+9. [Boolean Operators: not](./Lesson3_ControlFlow/8-OperatorsNot.py)
+
+10. [Else Statements](./Lesson3_ControlFlow/9-ElseStatements.py)
+
+11. [Else If Statements](./Lesson3_ControlFlow/10-ElseIfStatements.py)
+
+12. [Try and Except Statements](./Lesson3_ControlFlow/11-ExceptStatements.py)

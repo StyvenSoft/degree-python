@@ -63,7 +63,7 @@ Exercises
 - 10. [Scope](./Lesson2_Functions/90-scope.py)
 
 
-LESSON 3 Control Flow
+## LESSON 3 Control Flow
 
 Learn how to build control flow into your Python code by including if, else, and elif statements as well as try and except statements. Expect to learn all you need to know about boolean variables and logical operators.
 

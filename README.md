@@ -69,26 +69,51 @@ Learn how to build control flow into your Python code by including if, else, and
 
 Exercises
 
-1. Control Flow: An Introduction
+- 1. Control Flow: An Introduction
 
-2. [Boolean Expressions](./Lesson3_ControlFlow/1-booleanExpressions.py)
+- 2. [Boolean Expressions](./Lesson3_ControlFlow/1-booleanExpressions.py)
 
-3. [Relational Operators: Equals and Not Equals](./Lesson3_ControlFlow/2-RelationalOperators.py)
+- 3. [Relational Operators: Equals and Not Equals](./Lesson3_ControlFlow/2-RelationalOperators.py)
 
-4. [Boolean Variables](./Lesson3_ControlFlow/3-booleanVariables.py)
+- 4. [Boolean Variables](./Lesson3_ControlFlow/3-booleanVariables.py)
 
-5. [If Statements](./Lesson3_ControlFlow/4-IfStatements.py)
+- 5. [If Statements](./Lesson3_ControlFlow/4-IfStatements.py)
 
-6. [Relational Operators II](./Lesson3_ControlFlow/5-RelationalOperators.py)
+- 6. [Relational Operators II](./Lesson3_ControlFlow/5-RelationalOperators.py)
 
-7. [Boolean Operators: and](./Lesson3_ControlFlow/6-OperatorsAnd.py)
+- 7. [Boolean Operators: and](./Lesson3_ControlFlow/6-OperatorsAnd.py)
 
-8. [Boolean Operators: or](./Lesson3_ControlFlow/7-OperatorsOr.py)
+- 8. [Boolean Operators: or](./Lesson3_ControlFlow/7-OperatorsOr.py)
 
-9. [Boolean Operators: not](./Lesson3_ControlFlow/8-OperatorsNot.py)
+- 9. [Boolean Operators: not](./Lesson3_ControlFlow/8-OperatorsNot.py)
 
-10. [Else Statements](./Lesson3_ControlFlow/9-ElseStatements.py)
+- 10. [Else Statements](./Lesson3_ControlFlow/9-ElseStatements.py)
 
-11. [Else If Statements](./Lesson3_ControlFlow/10-ElseIfStatements.py)
+- 11. [Else If Statements](./Lesson3_ControlFlow/10-ElseIfStatements.py)
 
-12. [Try and Except Statements](./Lesson3_ControlFlow/11-ExceptStatements.py)
+- 12. [Try and Except Statements](./Lesson3_ControlFlow/11-ExceptStatements.py)
+
+
+## LESSON 4 Creating and Modifying a List in Python
+
+Learn how to create and modify a list in Python.
+
+Exercises
+
+1. [What is a list?](./Lesson4_ListinPython/1-aList.py)
+
+2. [Lists II](./Lesson4_ListinPython/2-ListTwo.py)
+
+3. [List of Lists](./Lesson4_ListinPython/3-ListofLists.py)
+
+4. [Zip](./Lesson4_ListinPython/4-Zip.py)
+
+5. [Empty Lists](./Lesson4_ListinPython/5-EmptyLists.py)
+
+6. [Growing a List: Append](./Lesson4_ListinPython/6-ListAppend.py)
+
+7. [Growing a List: Plus (+)](./Lesson4_ListinPython/7-ListPlus.py)
+
+8. [Range I](./Lesson4_ListinPython/8-RangeOne.py)
+
+9. [Range II](./Lesson4_ListinPython/9-RangeTwo.py)

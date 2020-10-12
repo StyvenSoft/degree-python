@@ -100,20 +100,46 @@ Learn how to create and modify a list in Python.
 
 Exercises
 
-1. [What is a list?](./Lesson4_ListinPython/1-aList.py)
+- 1. [What is a list?](./Lesson4_ListinPython/1-aList.py)
 
-2. [Lists II](./Lesson4_ListinPython/2-ListTwo.py)
+- 2. [Lists II](./Lesson4_ListinPython/2-ListTwo.py)
 
-3. [List of Lists](./Lesson4_ListinPython/3-ListofLists.py)
+- 3. [List of Lists](./Lesson4_ListinPython/3-ListofLists.py)
 
-4. [Zip](./Lesson4_ListinPython/4-Zip.py)
+- 4. [Zip](./Lesson4_ListinPython/4-Zip.py)
 
-5. [Empty Lists](./Lesson4_ListinPython/5-EmptyLists.py)
+- 5. [Empty Lists](./Lesson4_ListinPython/5-EmptyLists.py)
 
-6. [Growing a List: Append](./Lesson4_ListinPython/6-ListAppend.py)
+- 6. [Growing a List: Append](./Lesson4_ListinPython/6-ListAppend.py)
 
-7. [Growing a List: Plus (+)](./Lesson4_ListinPython/7-ListPlus.py)
+- 7. [Growing a List: Plus (+)](./Lesson4_ListinPython/7-ListPlus.py)
 
-8. [Range I](./Lesson4_ListinPython/8-RangeOne.py)
+- 8. [Range I](./Lesson4_ListinPython/8-RangeOne.py)
 
-9. [Range II](./Lesson4_ListinPython/9-RangeTwo.py)
+- 9. [Range II](./Lesson4_ListinPython/9-RangeTwo.py)
+
+
+
+## LESSON 5 Working with Lists in Python
+
+Learn how to select subsections of a list, find specific items in a list, or order a list by its values.
+
+Exercises
+
+- 1. Operations on Lists
+
+- 2. [Length of a List](./Lesson5_WorkingWithList/2-LengthOfList.py)
+
+- 3. [Selecting List Elements I](./Lesson5_WorkingWithList/3-ListElementsOne.py)
+
+- 4. [Selecting List Elements II](./Lesson5_WorkingWithList/4-ListElementsTwo.py)
+
+- 5. [Slicing Lists](./Lesson5_WorkingWithList/5-SlicingLists.py)
+
+- 6. [Slicing Lists II](./Lesson5_WorkingWithList/6-SlicingListsTwo.py)
+
+- 7. [Counting elements in a list](./Lesson5_WorkingWithList/7-CountingElements.py)
+
+- 8. [Sorting Lists I](./Lesson5_WorkingWithList/8-SortingLists.py)
+
+- 9. [Sorting Lists II](./Lesson5_WorkingWithList/9-SortingListsTwo.py)

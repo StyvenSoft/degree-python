@@ -128,18 +128,18 @@ Exercises
 
 - 1. Operations on Lists
 
-- 2. [Length of a List](./Lesson5_WorkingWithList/2-LengthOfList.py)
+- 2. [Length of a List](./Lesson5_WorkingWithLists/2-LengthOfList.py)
 
-- 3. [Selecting List Elements I](./Lesson5_WorkingWithList/3-ListElementsOne.py)
+- 3. [Selecting List Elements I](./Lesson5_WorkingWithLists/3-ListElementsOne.py)
 
-- 4. [Selecting List Elements II](./Lesson5_WorkingWithList/4-ListElementsTwo.py)
+- 4. [Selecting List Elements II](./Lesson5_WorkingWithLists/4-ListElementsTwo.py)
 
-- 5. [Slicing Lists](./Lesson5_WorkingWithList/5-SlicingLists.py)
+- 5. [Slicing Lists](./Lesson5_WorkingWithLists/5-SlicingLists.py)
 
-- 6. [Slicing Lists II](./Lesson5_WorkingWithList/6-SlicingListsTwo.py)
+- 6. [Slicing Lists II](./Lesson5_WorkingWithLists/6-SlicingListsTwo.py)
 
-- 7. [Counting elements in a list](./Lesson5_WorkingWithList/7-CountingElements.py)
+- 7. [Counting elements in a list](./Lesson5_WorkingWithLists/7-CountingElements.py)
 
-- 8. [Sorting Lists I](./Lesson5_WorkingWithList/8-SortingLists.py)
+- 8. [Sorting Lists I](./Lesson5_WorkingWithLists/8-SortingLists.py)
 
-- 9. [Sorting Lists II](./Lesson5_WorkingWithList/9-SortingListsTwo.py)
+- 9. [Sorting Lists II](./Lesson5_WorkingWithLists/9-SortingListsTwo.py)

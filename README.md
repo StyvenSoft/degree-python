@@ -143,3 +143,30 @@ Exercises
 - 8. [Sorting Lists I](./Lesson5_WorkingWithLists/8-SortingLists.py)
 
 - 9. [Sorting Lists II](./Lesson5_WorkingWithLists/9-SortingListsTwo.py)
+
+
+## LESSON 6 Loops
+
+In this course we’ll learn about structures that let you repeat Python code over and over. You will learn how to understand loops and write them to solve your own problems
+
+Exercises
+
+- 1. [Introduction](./Lesson6_Loops/1-Introduction.py)
+
+- 2. [Create a For Loop](./Lesson6_Loops/2-CreateForLoop.py)
+
+- 3. [Using Range in Loops](./Lesson6_Loops/3-UsingRangeLoops.py)
+
+- 4. [Infinite Loops](./Lesson6_Loops/4-InfiniteLoops.py)
+
+- 5. [Break](./Lesson6_Loops/5-Break.py)
+
+- 6. [Continue](./Lesson6_Loops/6-Continue.py)
+
+- 7. [While Loops](./Lesson6_Loops/7-WhileLoops.py)
+
+- 8. [Nested Loops](./Lesson6_Loops/8-NestedLoops.py)
+
+- 9. [List Comprehensions](./Lesson6_Loops/9-ListComprehensions.py)
+
+- 10.[ More List Comprehensions](./Lesson6_Loops/10-MoreListComprehensions.py)

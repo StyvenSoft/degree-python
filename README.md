@@ -170,3 +170,32 @@ Exercises
 - 9. [List Comprehensions](./Lesson6_Loops/9-ListComprehensions.py)
 
 - 10.[ More List Comprehensions](./Lesson6_Loops/10-MoreListComprehensions.py)
+
+
+## LESSON 7 Code Challenge: Loops
+
+Practice your looping skills with these function building problems!
+
+Exercises
+
+- 1. [Introduction](./Lesson7_ChallengeLoops/1-Introduction.py)
+
+- 2. [Divisible by Ten](./Lesson7_ChallengeLoops/2-DivisibleByTen.py)
+
+- 3. [Greetings](./Lesson7_ChallengeLoops/3-Greetings.py)
+
+- 4. [Delete Starting Even Numbers](./Lesson7_ChallengeLoops/4-DeleteStartingNumbers.py)
+
+- 5. [Odd Indices](./Lesson7_ChallengeLoops/5-OddIndices.py)
+
+- 6. [Exponents](./Lesson7_ChallengeLoops/6-Exponents.py)
+
+- 7. [Larger Sum](./Lesson7_ChallengeLoops/7-LargerSum.py)
+
+- 8. [Over 9000](./Lesson7_ChallengeLoops/8-Over9000.py)
+
+- 9. [Max Num](./Lesson7_ChallengeLoops/9-MaxNum.py)
+
+- 10.[ Same Values](./Lesson7_ChallengeLoops/10-SameValues.py)
+
+- 11.[ Reversed List](./Lesson7_ChallengeLoops/11-ReversedList.py)

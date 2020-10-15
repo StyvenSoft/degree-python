@@ -169,7 +169,7 @@ Exercises
 
 - 9. [List Comprehensions](./Lesson6_Loops/9-ListComprehensions.py)
 
-- 10.[ More List Comprehensions](./Lesson6_Loops/10-MoreListComprehensions.py)
+- 10. [ More List Comprehensions](./Lesson6_Loops/10-MoreListComprehensions.py)
 
 
 ## LESSON 7 Code Challenge: Loops
@@ -196,6 +196,35 @@ Exercises
 
 - 9. [Max Num](./Lesson7_ChallengeLoops/9-MaxNum.py)
 
-- 10.[ Same Values](./Lesson7_ChallengeLoops/10-SameValues.py)
+- 10. [ Same Values](./Lesson7_ChallengeLoops/10-SameValues.py)
 
-- 11.[ Reversed List](./Lesson7_ChallengeLoops/11-ReversedList.py)
+- 11. [ Reversed List](./Lesson7_ChallengeLoops/11-ReversedList.py)
+
+
+## LESSON 8 Introduction to Strings
+
+Learn about strings, their properties, and how to iterate through them to solve many different types of problems.
+
+Exercises
+
+- 1. [Introduction](./Lesson8_IntroToStrings/1-Introduction.py)
+
+- 2. [They're all Lists!](./Lesson8_IntroToStrings/2-TheyAllLists.py)
+
+- 3. [Cut Me a Slice of String](./Lesson8_IntroToStrings/3-CutSliceString.py)
+
+- 4. [Concatenating Strings](./Lesson8_IntroToStrings/4-ConcatenatingStrings.py)
+
+- 5. [More and More String Slicing (How Long is that String?)](./Lesson8_IntroToStrings/5-MoreStringSlicing.py)
+
+- 6. [Negative Indices](./Lesson8_IntroToStrings/6-NegativeIndices.py)
+
+- 7. [Strings are Immutable](./Lesson8_IntroToStrings/7-StringsImmutable.py)
+
+- 8. [Escape Characters](./Lesson8_IntroToStrings/8-EscapeCharacters.py)
+
+- 9. [Iterating through Strings](./Lesson8_IntroToStrings/9-IteratingthroughStrings.py)
+
+- 10. [ Strings and Conditionals (Part One)](./Lesson8_IntroToStrings/10-StringsConditionals1.py)
+
+- 11. [ Strings and Conditionals (Part Two)](./Lesson8_IntroToStrings/11-StringsConditionals2.py)

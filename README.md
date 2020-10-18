@@ -228,3 +228,36 @@ Exercises
 - 10. [ Strings and Conditionals (Part One)](./Lesson8_IntroToStrings/10-StringsConditionals1.py)
 
 - 11. [ Strings and Conditionals (Part Two)](./Lesson8_IntroToStrings/11-StringsConditionals2.py)
+
+
+## LESSON 9 String Methods
+
+Learn many of the powerful string methods that Python comes pre-built with. These methods include .upper(), .lower(), .title(), .split(), .join(), and .format().
+
+Exercises
+
+- 1. [Introduction](./Lesson9_StringMethods/1-Introduction.py)
+
+- 2. [Formatting Methods](./Lesson9_StringMethods/2-FormattingMethods.py)
+
+- 3. [Splitting Strings](./Lesson9_StringMethods/3-SplittingStrings.py)
+
+- 4. [Splitting Strings II](./Lesson9_StringMethods/4-SplittingStrings2.py)
+
+- 5. [Splitting Strings III](./Lesson9_StringMethods/5-SplittingStrings3.py)
+
+- 6. [Joining Strings](./Lesson9_StringMethods/6-JoiningStrings.py)
+
+- 7. [Joining Strings II](./Lesson9_StringMethods/7-JoiningStrings2.py)
+
+- 8. [.strip()](./Lesson9_StringMethods/8-strip.py)
+
+- 9. [Replace](./Lesson9_StringMethods/9-Replace.py)
+
+- 10. [ .find()](./Lesson9_StringMethods/10-find.py)
+
+- 11. [ .format()](./Lesson9_StringMethods/11-format.py)
+
+- 12. [ .format() II](./Lesson9_StringMethods/12-format2.py)
+
+- 13. [ Review](./Lesson9_StringMethods/13-review.py)

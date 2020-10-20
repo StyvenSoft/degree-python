@@ -290,3 +290,20 @@ Exercises
 - 10. [Make Spoonerism](./Lesson10_ChallengeString/10-MakeSpoonerism.py)
 
 - 11. [Add Exclamation](./Lesson10_ChallengeString/11-AddExclamation.py)
+
+
+## LESSON 11 Modules: Python
+
+Learn how modules work in the Python programming language.
+
+Exercises
+
+- 1. [Modules Python Introduction](./Lesson11_Modules/1-ModuleIntroduction.py)
+
+- 2. [Modules Python Random](./Lesson11_Modules2-ModulesRandom.py)
+
+- 3. [Modules Python Namespaces](./Lesson11_Modules/3-ModulesNamespaces.py)
+
+- 4. [Modules Python Decimals](./Lesson11_Modules/4-ModulesDecimals.py)
+
+- 5. [Modules Python Files and Scope](./Lesson11_Modules/5-ModulesFilesScope.py)

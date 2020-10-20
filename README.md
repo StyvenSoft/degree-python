@@ -269,24 +269,24 @@ Practice your string method skills with these function building problems!
 
 Exercises
 
-- 1. [Introduction](./Lesson10_ChangeString/1-Intro.py)
+- 1. [Introduction](./Lesson10_ChallengeString/1-Intro.py)
 
-- 2. [Count Letters](./Lesson10_ChangeString/2-CountLetters.py)
+- 2. [Count Letters](./Lesson10_ChallengeString/2-CountLetters.py)
 
-- 3. [Count X](./Lesson10_ChangeString/3-CountX.py)
+- 3. [Count X](./Lesson10_ChallengeString/3-CountX.py)
 
-- 4. [Count Multi X](./Lesson10_ChangeString/4-CountMultiX.py)
+- 4. [Count Multi X](./Lesson10_ChallengeString/4-CountMultiX.py)
 
-- 5. [Substring Between](./Lesson10_ChangeString/5-SubstringBetween.py)
+- 5. [Substring Between](./Lesson10_ChallengeString/5-SubstringBetween.py)
 
-- 6. [X Length](./Lesson10_ChangeString/6-XLength.py)
+- 6. [X Length](./Lesson10_ChallengeString/6-XLength.py)
 
-- 7. [Check Name](./Lesson10_ChangeString/7-CheckName.py)
+- 7. [Check Name](./Lesson10_ChallengeString/7-CheckName.py)
 
-- 8. [Every Other Letter](./Lesson10_ChangeString/8-EveryOtherLetter.py)
+- 8. [Every Other Letter](./Lesson10_ChallengeString/8-EveryOtherLetter.py)
 
-- 9. [Reverse](./Lesson10_ChangeString/9-Reverse.py)
+- 9. [Reverse](./Lesson10_ChallengeString/9-Reverse.py)
 
-- 10. [Make Spoonerism](./Lesson10_ChangeString/10-MakeSpoonerism.py)
+- 10. [Make Spoonerism](./Lesson10_ChallengeString/10-MakeSpoonerism.py)
 
-- 11. [Add Exclamation](./Lesson10_ChangeString/11-AddExclamation.py)
+- 11. [Add Exclamation](./Lesson10_ChallengeString/11-AddExclamation.py)

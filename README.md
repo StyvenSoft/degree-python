@@ -307,3 +307,26 @@ Exercises
 - 4. [Modules Python Decimals](./Lesson11_Modules/4-ModulesDecimals.py)
 
 - 5. [Modules Python Files and Scope](./Lesson11_Modules/5-ModulesFilesScope.py)
+
+
+## LESSON 12 Creating Dictionaries
+
+In this lesson, you will learn how to create dictionaries, which map a set of keys to a set of values. Once you can create dictionaries, you open doors to more complicated concepts like data processing and web development.
+
+Exercises
+
+- 1. [What is a Dictionary?](./Lesson12_CreatingDictionaries/1-Dictionary.py)
+
+- 2. [Make a Dictionary](./Lesson12_CreatingDictionaries/2-MakeDictionary.py)
+
+- 3. [Invalid Keys](./Lesson12_CreatingDictionaries/3-InvalidKeys.py)
+
+- 4. [Empty Dictionary](./Lesson12_CreatingDictionaries/4-EmptyDictionary.py)
+
+- 5. [Add A Key](./Lesson12_CreatingDictionaries/5-AddKey.py)
+
+- 6. [Add Multiple Keys](./Lesson12_CreatingDictionaries/6-AddMultipleKeys.py)
+
+- 7. [Overwrite Values](./Lesson12_CreatingDictionaries/7-OverwriteValues.py)
+
+- 8. [List Comprehensions to Dictionaries](./Lesson12_CreatingDictionaries/8-ListComprehensionsDic.py)
